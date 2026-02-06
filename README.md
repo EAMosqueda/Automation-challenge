@@ -107,14 +107,12 @@ npm start
 -   The file must be located at:
 
 ```{=html}
-<!-- -->
 ```
     /data/challenge.xlsx
 
 -   The sheet name must be:
 
 ```{=html}
-<!-- -->
 ```
     data
 
