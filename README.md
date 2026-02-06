@@ -107,13 +107,11 @@ npm start
 -   The file must be located at:
 
 ```{=html}
-```
     /data/challenge.xlsx
 
 -   The sheet name must be:
 
 ```{=html}
-```
     data
 
 -   The script processes 50 rows as required by the
